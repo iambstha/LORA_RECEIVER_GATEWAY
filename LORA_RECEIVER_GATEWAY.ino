@@ -14,8 +14,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "Team . NET";
-const char* password = "Nepo913913";
+const char* ssid = "Wifi SSID";
+const char* password = "Wifi Password";
 
 String serverName = "http://103.180.240.24:8091/v1/api/sensors";
 
